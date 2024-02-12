@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>🦉 Bubo Reader</title>
+    <title>🍎 The Diet</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <h1>🦉 Bubo Reader</h1>
+    <h1>🍎 The Diet</h1>
 
     {% for group, feeds in data %}
     <h2>{{ group }}</h2>
@@ -45,12 +45,5 @@
     <br />
     <hr />
     <p>Last updated {{ now }}.</p>
-    <p>
-      Powered by
-      <a href="https://github.com/georgemandis/bubo-rss"
-        >Bubo Reader (v{{ info.version }})</a
-      >, a project by <a href="https://george.mand.is">George Mandis</a>. ❤️
-      <a href="{{ info.funding.url }}">Sponsor on GitHub</a>
-    </p>
   </body>
 </html>

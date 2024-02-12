@@ -1,40 +1,24 @@
 {
-  "👁️": [
+  "Design": [
     "https://ig.opnxng.com/otoarte/rss",
     "https://abduzeedo.com/taxonomy/term/13745/feed",
     "https://abduzeedo.com/taxonomy/term/12345/feed",
     "https://anothergraphic.org/feed/",
     "https://ig.opnxng.com/mitsubishi_ufj_financial_group/rss",
     "https://designeverywhere.tumblr.com/rss",
+    "https://ig.opnxng.com/folders/rss",
     "https://ratsigguratu.tumblr.com/rss"
-    "https://sajanrai.tumblr.com/rss",
-    "https://wepresent.wetransfer.com/rss"
-    "https://ig.opnxng.com/jeauyce/rss"
   ],
-  "📕": [
-    "https://beanytuesday.tumblr.com/rss",
-    "https://chias.blog/feed/",
-    "https://hazardoustimes.substack.com/feed",
-    "https://nitter.uni-sonia.com/danielm63748106/rss",
-    "https://depatterning.substack.com/feed",
-    "https://escapethealgorithm.substack.com/feed",
-    "https://nekosattva.substack.com/feed",
-    "https://nitter.uni-sonia.com/ctrlcreep/rss",
-    "https://www.perfectlyimperfect.fyi/feed",
-    "https://ctrlcreep.substack.com/feed",
-    "https://rsshub.app/picnob/user/ruralisolationshortie",
-    "https://danielmatthew.substack.com/feed",
-    "https://philosophyinhell.substack.com/feed",
-    "https://realitygamer.substack.com/feed",
+  "Blogs": [
+    "https://george.mand.is/feed.xml",
+    "https://joy.recurse.com/feed.atom"
   ],
-  "🎮": [
-    "http://www.hardcoregaming101.net/feed/",
-    "https://joy.recurse.com/feed.atom",
-    "https://hazardoustimes.substack.com/feed",
-    "https://bottomfeeder.substack.com/feed",
-    "https://myfriendpokey.tumblr.com/rss",
-    "https://warpdoor.com/rss/",
-    "https://wfgames.substack.com/feed",
-    "https://itch.io/games/newest/by-sokpop.xml"
+  "My GitHub Projects": [
+    "https://github.com/georgemandis.atom",
+    "https://github.com/georgemandis/bubo-rss/releases.atom",
+    "https://github.com/georgemandis/konami-js/releases.atom",
+    "https://github.com/georgemandis/konami-js/commits/main.atom",
+    "https://github.com/javascriptforartists/cheer-me-up-and-sing-me-a-song/commits/master.atom",
+    "https://github.com/georgemandis/circuit-playground-midi-multi-tool/commits/master.atom"
   ]
 }

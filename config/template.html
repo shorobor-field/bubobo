@@ -17,14 +17,13 @@
   </head>
   <body>
     <div>
-    <h1 align="center" style="font-size:4em",font-family="Work Sans">🍎 The Diet</h1>
 
     {% for group, feeds in data %}
     <h2>{{ group }}</h2>
     {% for feed in feeds %}
     <details>
       <summary>
-        <span class="feed-title">{{ feed.title }}</span>
+        <span class="feed-title">{{ feed.title }}</span> <br>
         <span class="feed-url">({{ feed.feed }})</span>
       </summary>
       <ul>

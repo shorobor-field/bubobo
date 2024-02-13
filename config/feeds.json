@@ -25,16 +25,12 @@
     "https://rsshub.app/picnob/user/ruralisolationshortie",
     "https://danielmatthew.substack.com/feed",
     "https://philosophyinhell.substack.com/feed",
-    "https://realitygamer.substack.com/feed"
-  ],
-  "Play": [
+    "https://realitygamer.substack.com/feed",
+    "https://wfgames.substack.com/feed",
     "http://www.hardcoregaming101.net/feed/",
-    "https://joy.recurse.com/feed.atom",
     "https://hazardoustimes.substack.com/feed",
     "https://bottomfeeder.substack.com/feed",
     "https://myfriendpokey.tumblr.com/rss",
-    "https://warpdoor.com/rss/",
-    "https://wfgames.substack.com/feed",
-    "https://itch.io/games/newest/by-sokpop.xml"
+    "https://warpdoor.com/rss/"
   ]
 }

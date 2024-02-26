@@ -6,7 +6,7 @@
     "https://designeverywhere.tumblr.com/rss",
     "https://ratsigguratu.tumblr.com/rss",
     "https://sajanrai.tumblr.com/rss",
-    "https://wepresent.wetransfer.com/rss",
+    "https://wepresent.wetransfer.com/rss"
   ],
   "Read": [
     "https://beanytuesday.tumblr.com/rss",
@@ -28,4 +28,11 @@
     "https://myfriendpokey.tumblr.com/rss",
     "https://warpdoor.com/rss/"
   ]
+  "Watch": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCDETFHKteb-C_EaXmRKvP4w",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCilouT5irlCNn2imcCDhhJQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCGSGPehp0RWfca-kENgBJ9Q",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCsVZeladiSTL94kgcKTwOJg"
+    "
 }
